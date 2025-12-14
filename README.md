@@ -1,6 +1,6 @@
-# 🤖 Virtual Assistant
+# 🤖 Mac AI – Speak Smart, Live Smart
 
-This is my personal project — a **Virtual Assistant** made using the **MERN Stack** and **Gemini AI API**.  
+This is my personal project — a **Mac AI – Speak Smart, Live Smart** made using the **MERN Stack** and **Gemini AI API**.  
 It can chat, understand voice commands, and give intelligent responses like a smart AI helper.  
 I built it to practice full-stack development and learn how AI integrates with web apps.
 
