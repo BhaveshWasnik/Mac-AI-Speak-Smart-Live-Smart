@@ -1,42 +1,53 @@
-# 🤖 Mac AI – Speak Smart, Live Smart
+🤖 Mac AI – Speak Smart, Live Smart
 
-This is my personal project — a **Mac AI – Speak Smart, Live Smart** made using the **MERN Stack** and **Gemini AI API**.  
-It can chat, understand voice commands, and give intelligent responses like a smart AI helper.  
-I built it to practice full-stack development and learn how AI integrates with web apps.
+🌐 Live Demo: https://macai.onrender.com
 
----
+🎤 Voice-Based Virtual Assistant | Gemini-like AI Behavior
+📂 GitHub Repository: https://github.com/BhaveshWasnik/virtualAssistant
 
-## 🚀 Features
+Mac AI – Speak Smart, Live Smart is my personal full-stack project built using the MERN Stack and the Gemini AI API.
+It is a voice-enabled virtual assistant capable of understanding spoken commands, engaging in intelligent conversations, and responding in real time—similar to modern AI assistants.
 
-- 🧠 Talks with AI using Gemini API  
-- 🎙️ Voice input and text-to-speech replies  
-- 🎨 Clean and responsive UI with Tailwind CSS  
-- ⚙️ MERN-based structure (MongoDB, Express, React, Node.js)  
-- 👤 Custom assistant name, avatar, and theme  
-- 💾 User data saved using context and local storage  
+This project was developed to strengthen my full-stack development skills and to explore real-world AI integration in web applications.
 
----
+🚀 Features
 
-## 🧰 Tech Stack
+🧠 Intelligent conversations powered by Gemini AI API
 
-**Frontend:**
-- React.js  
-- Tailwind CSS  
-- Axios  
-- Context API  
+🎙️ Voice input with text-to-speech responses
 
-**Backend:**
-- Node.js  
-- Express.js  
-- MongoDB (for storing user data and preferences)
+🎨 Clean, modern, and responsive UI using Tailwind CSS
 
-**API:**
-- Gemini API (for AI conversations)
+⚙️ Scalable MERN architecture (MongoDB, Express, React, Node.js)
 
----
+👤 Custom assistant name, avatar, and theme
 
-## ⚙️ Setup and Installation
+💾 User data persistence using Context API and local storage
 
+🧰 Tech Stack
+Frontend
+
+React.js
+
+Tailwind CSS
+
+Axios
+
+Context API
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB (user data & preferences)
+
+AI Integration
+
+Gemini API (AI-powered conversations)
+
+⚙️ Setup and Installation
 🔹 Step 1: Clone the Repository
 git clone https://github.com/BhaveshWasnik/virtualAssistant.git
 
