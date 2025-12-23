@@ -37,24 +37,23 @@ I built it to practice full-stack development and learn how AI integrates with w
 
 ## ⚙️ Setup and Installation
 
-⚙️ Setup and Installation
-Step 1: Clone the repository
+🔹 Step 1: Clone the Repository
 git clone https://github.com/BhaveshWasnik/virtualAssistant.git
 
-Step 2: Navigate to the project folder
+📁 Step 2: Navigate to the Project Folder
 cd virtualAssistant
 
-Step 3: Install dependencies
+📦 Step 3: Install Dependencies
 npm install
 
-Step 4: Run the project
+▶️ Step 4: Run the Project
 npm run dev
 
-Step 5: Open in browser
+🌐 Step 5: Open in Browser
 
 Open your browser and visit:
 
 http://localhost:3000
 
 
-✅ Your Mac AI – Speak Smart, Live Smart project is now running on your desktop.
+✅ Your Mac AI – Speak Smart, Live Smart project is now running on your desktop 🚀🎤
